@@ -35,3 +35,4 @@ git status 可以查看合并冲突（红色部分）
 
 git merge master  (合并Master分支到当前分支)
 
+![image](https://github.com/kecount/tools/blob/main/git_cheat_sheet.png)
