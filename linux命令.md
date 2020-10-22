@@ -17,3 +17,14 @@ scp 127.0.0.1:/home/chenheng/mydev/devgo/*    .
 ### 4  netstat 找出程序运行的端口
 
 netstat -anp | grep ':80'
+
+### 5 压缩解压文件
+压缩文件
+tar -zcvf /home/xahot.tar.gz /xahot
+tar -zcvf 打包后生成的文件名全路径 要打包的目录
+例子：把/xahot文件夹打包后生成一个/home/xahot.tar.gz的文件。
+
+解压文件
+tar -zxvf mall.tar
+
+### 6 
